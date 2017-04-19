@@ -1,5 +1,7 @@
 ## Events
 
+[![Join the chat at https://gitter.im/UofTCoders/Lobby](https://badges.gitter.im/UofTCoders/studyGroup.svg)](https://gitter.im/UofTCoders/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the Events page of [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! 
 
 ### Wait What's a 'Mozilla Study Group'?
